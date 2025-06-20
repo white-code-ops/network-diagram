@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.6" pages="2">
   <diagram id="1JJ-UvxjRfw-XplDersZ" name="Page-1">
-    <mxGraphModel dx="1944" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="4559" dy="1910" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -131,7 +131,7 @@
           <mxGeometry x="760" y="1000" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="L5Tx7upwiDnB7Mm6VfFR-47" value="10/100 24 Port" style="image;html=1;image=img/lib/clip_art/networking/Switch_128x128.png" parent="1" vertex="1">
-          <mxGeometry x="390" y="1000" width="160" height="120" as="geometry" />
+          <mxGeometry x="282" y="1000" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="L5Tx7upwiDnB7Mm6VfFR-48" value="10/100 24 Port" style="image;html=1;image=img/lib/clip_art/networking/Switch_128x128.png" parent="1" vertex="1">
           <mxGeometry x="1560" y="1000" width="160" height="120" as="geometry" />
@@ -239,33 +239,33 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hIumWw4enyg4ohD0qUeY-33" value="HikVision DVR" style="shape=mxgraph.networks2.icon;aspect=fixed;fillColor=#EDEDED;strokeColor=#000000;gradientColor=#5B6163;network2IconShadow=1;network2bgFillColor=none;network2Icon=mxgraph.networks2.video_projector;network2IconYOffset=0.013;network2IconW=1;network2IconH=0.294;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="2133" y="1332.44" width="50" height="14.7" as="geometry" />
+          <mxGeometry x="2150" y="1332.44" width="50" height="14.7" as="geometry" />
         </mxCell>
         <mxCell id="hIumWw4enyg4ohD0qUeY-34" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/security/Surveillance_Camera_Ceiling.svg;" parent="1" vertex="1">
-          <mxGeometry x="2113" y="1465.94" width="40" height="38.06" as="geometry" />
+          <mxGeometry x="2119" y="1560.94" width="40" height="38.06" as="geometry" />
         </mxCell>
         <mxCell id="hIumWw4enyg4ohD0qUeY-37" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;sourcePerimeterSpacing=10;targetPerimeterSpacing=10;" parent="1" source="hIumWw4enyg4ohD0qUeY-34" target="hIumWw4enyg4ohD0qUeY-33" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1993" y="817.8199999999999" as="sourcePoint" />
-            <mxPoint x="2133" y="771.04" as="targetPoint" />
+            <mxPoint x="1996" y="817.8199999999999" as="sourcePoint" />
+            <mxPoint x="2136" y="771.04" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hIumWw4enyg4ohD0qUeY-39" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/security/Surveillance_Camera_Ceiling.svg;" parent="1" vertex="1">
-          <mxGeometry x="2153" y="1465.94" width="40" height="38.06" as="geometry" />
+          <mxGeometry x="2159" y="1560.94" width="40" height="38.06" as="geometry" />
         </mxCell>
         <mxCell id="hIumWw4enyg4ohD0qUeY-40" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;sourcePerimeterSpacing=10;targetPerimeterSpacing=10;" parent="1" source="hIumWw4enyg4ohD0qUeY-39" target="hIumWw4enyg4ohD0qUeY-33" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2064.62" y="817.8199999999999" as="sourcePoint" />
-            <mxPoint x="2181.62" y="791.04" as="targetPoint" />
+            <mxPoint x="2067.62" y="817.8199999999999" as="sourcePoint" />
+            <mxPoint x="2184.62" y="791.04" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hIumWw4enyg4ohD0qUeY-41" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/security/Surveillance_Camera_Ceiling.svg;" parent="1" vertex="1">
-          <mxGeometry x="2193" y="1465.94" width="40" height="38.06" as="geometry" />
+          <mxGeometry x="2199" y="1560.94" width="40" height="38.06" as="geometry" />
         </mxCell>
         <mxCell id="hIumWw4enyg4ohD0qUeY-42" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;sourcePerimeterSpacing=10;targetPerimeterSpacing=10;" parent="1" source="hIumWw4enyg4ohD0qUeY-41" target="hIumWw4enyg4ohD0qUeY-33" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2203" y="810.1200000000001" as="sourcePoint" />
-            <mxPoint x="2320" y="783.3400000000001" as="targetPoint" />
+            <mxPoint x="2206" y="810.1200000000001" as="sourcePoint" />
+            <mxPoint x="2323" y="783.3400000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hIumWw4enyg4ohD0qUeY-43" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;sourcePerimeterSpacing=10;targetPerimeterSpacing=10;" parent="1" source="hIumWw4enyg4ohD0qUeY-113" target="hIumWw4enyg4ohD0qUeY-44" edge="1">
@@ -275,27 +275,27 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hIumWw4enyg4ohD0qUeY-44" value="HikVision DVR" style="shape=mxgraph.networks2.icon;aspect=fixed;fillColor=#EDEDED;strokeColor=#000000;gradientColor=#5B6163;network2IconShadow=1;network2bgFillColor=none;network2Icon=mxgraph.networks2.video_projector;network2IconYOffset=0.013;network2IconW=1;network2IconH=0.294;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="-447.5" y="1302" width="50" height="14.7" as="geometry" />
+          <mxGeometry x="-357.5" y="1332" width="50" height="14.7" as="geometry" />
         </mxCell>
         <mxCell id="hIumWw4enyg4ohD0qUeY-46" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;sourcePerimeterSpacing=10;targetPerimeterSpacing=10;" parent="1" source="hIumWw4enyg4ohD0qUeY-99" target="hIumWw4enyg4ohD0qUeY-44" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="24.29966752862947" y="789.5999999999999" as="sourcePoint" />
-            <mxPoint x="75" y="664.5999999999999" as="targetPoint" />
+            <mxPoint x="114.29966752862947" y="819.5999999999999" as="sourcePoint" />
+            <mxPoint x="165" y="694.5999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hIumWw4enyg4ohD0qUeY-47" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/security/Surveillance_Camera_Ceiling.svg;" parent="1" vertex="1">
-          <mxGeometry x="-441.1" y="1427" width="40.6" height="38.64" as="geometry" />
+          <mxGeometry x="-351.1" y="1560" width="40.6" height="38.64" as="geometry" />
         </mxCell>
         <mxCell id="hIumWw4enyg4ohD0qUeY-48" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;sourcePerimeterSpacing=10;targetPerimeterSpacing=10;" parent="1" source="hIumWw4enyg4ohD0qUeY-47" target="hIumWw4enyg4ohD0qUeY-44" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="6.619999999999891" y="711.3799999999999" as="sourcePoint" />
-            <mxPoint x="123.61999999999989" y="684.5999999999999" as="targetPoint" />
+            <mxPoint x="96.61999999999989" y="741.3799999999999" as="sourcePoint" />
+            <mxPoint x="213.6199999999999" y="714.5999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hIumWw4enyg4ohD0qUeY-50" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;sourcePerimeterSpacing=10;targetPerimeterSpacing=10;" parent="1" source="hIumWw4enyg4ohD0qUeY-97" target="hIumWw4enyg4ohD0qUeY-44" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="126.11357320983257" y="794.5999999999999" as="sourcePoint" />
-            <mxPoint x="262" y="676.9000000000001" as="targetPoint" />
+            <mxPoint x="216.11357320983257" y="824.5999999999999" as="sourcePoint" />
+            <mxPoint x="352" y="706.9000000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hIumWw4enyg4ohD0qUeY-51" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;sourcePerimeterSpacing=10;targetPerimeterSpacing=10;" parent="1" source="L5Tx7upwiDnB7Mm6VfFR-44" target="hIumWw4enyg4ohD0qUeY-52" edge="1">
@@ -308,7 +308,7 @@
           <mxGeometry x="895" y="1332.4399999999998" width="50" height="14.7" as="geometry" />
         </mxCell>
         <mxCell id="hIumWw4enyg4ohD0qUeY-53" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/security/Surveillance_Camera_Ceiling.svg;" parent="1" vertex="1">
-          <mxGeometry x="861" y="1480" width="40" height="38.06" as="geometry" />
+          <mxGeometry x="861" y="1560" width="40" height="38.06" as="geometry" />
         </mxCell>
         <mxCell id="hIumWw4enyg4ohD0qUeY-54" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;sourcePerimeterSpacing=10;targetPerimeterSpacing=10;" parent="1" source="hIumWw4enyg4ohD0qUeY-53" target="hIumWw4enyg4ohD0qUeY-52" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -317,7 +317,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hIumWw4enyg4ohD0qUeY-55" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/security/Surveillance_Camera_Ceiling.svg;" parent="1" vertex="1">
-          <mxGeometry x="901" y="1480" width="40" height="38.06" as="geometry" />
+          <mxGeometry x="901" y="1560" width="40" height="38.06" as="geometry" />
         </mxCell>
         <mxCell id="hIumWw4enyg4ohD0qUeY-56" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;sourcePerimeterSpacing=10;targetPerimeterSpacing=10;" parent="1" source="hIumWw4enyg4ohD0qUeY-55" target="hIumWw4enyg4ohD0qUeY-52" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -326,7 +326,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hIumWw4enyg4ohD0qUeY-57" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/security/Surveillance_Camera_Ceiling.svg;" parent="1" vertex="1">
-          <mxGeometry x="941" y="1480" width="40" height="38.06" as="geometry" />
+          <mxGeometry x="941" y="1560" width="40" height="38.06" as="geometry" />
         </mxCell>
         <mxCell id="hIumWw4enyg4ohD0qUeY-58" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;sourcePerimeterSpacing=10;targetPerimeterSpacing=10;" parent="1" source="hIumWw4enyg4ohD0qUeY-57" target="hIumWw4enyg4ohD0qUeY-52" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -335,7 +335,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hIumWw4enyg4ohD0qUeY-59" value="WiFi AP" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_128x128.png" parent="1" vertex="1">
-          <mxGeometry x="-154.3" y="1245.71" width="80" height="80" as="geometry" />
+          <mxGeometry x="-113" y="1299.92" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hIumWw4enyg4ohD0qUeY-61" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;sourcePerimeterSpacing=10;targetPerimeterSpacing=10;" parent="1" source="hIumWw4enyg4ohD0qUeY-113" target="hIumWw4enyg4ohD0qUeY-59" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -364,8 +364,8 @@
         <mxCell id="hIumWw4enyg4ohD0qUeY-66" value="Extension&lt;div&gt;Yeastar S100&lt;/div&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.ip_pbx;" parent="1" vertex="1">
           <mxGeometry x="1301" y="1320.5" width="59" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="hIumWw4enyg4ohD0qUeY-67" value="3CX&lt;div&gt;Dell PC&lt;/div&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.ip_pbx;" parent="1" vertex="1">
-          <mxGeometry x="1440" y="1320.5" width="59" height="39" as="geometry" />
+        <mxCell id="hIumWw4enyg4ohD0qUeY-67" value="3CX&lt;div&gt;https://smtravels.3cx.ae&lt;/div&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.ip_pbx;" parent="1" vertex="1">
+          <mxGeometry x="1450.5" y="1560.97" width="59" height="39" as="geometry" />
         </mxCell>
         <mxCell id="hIumWw4enyg4ohD0qUeY-69" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="hIumWw4enyg4ohD0qUeY-66" target="L5Tx7upwiDnB7Mm6VfFR-45" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -374,7 +374,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hIumWw4enyg4ohD0qUeY-70" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="hIumWw4enyg4ohD0qUeY-67" target="L5Tx7upwiDnB7Mm6VfFR-45" edge="1">
+        <mxCell id="hIumWw4enyg4ohD0qUeY-70" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="hIumWw4enyg4ohD0qUeY-67" target="wQYIy9DI_1pvrBFFA-tW-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1520.98" y="1325.71" as="sourcePoint" />
             <mxPoint x="1469.98" y="1107.71" as="targetPoint" />
@@ -403,7 +403,7 @@
           <mxGeometry x="960" y="1302" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hIumWw4enyg4ohD0qUeY-77" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 247));&quot;&gt;Finance&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 247));&quot;&gt;NAS Server&lt;/font&gt;&lt;/div&gt;" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server_storage;" parent="1" vertex="1">
-          <mxGeometry x="1501" y="1300" width="80" height="80" as="geometry" />
+          <mxGeometry x="1522" y="1300" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hIumWw4enyg4ohD0qUeY-78" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="hIumWw4enyg4ohD0qUeY-77" target="L5Tx7upwiDnB7Mm6VfFR-45" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -465,10 +465,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hIumWw4enyg4ohD0qUeY-97" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/security/Surveillance_Camera_Ceiling.svg;" parent="1" vertex="1">
-          <mxGeometry x="-400.65" y="1427" width="40.15" height="38.21" as="geometry" />
+          <mxGeometry x="-310.65" y="1560" width="40.15" height="38.21" as="geometry" />
         </mxCell>
         <mxCell id="hIumWw4enyg4ohD0qUeY-99" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/security/Surveillance_Camera_Ceiling.svg;" parent="1" vertex="1">
-          <mxGeometry x="-480.5" y="1427" width="40.4" height="38.45" as="geometry" />
+          <mxGeometry x="-390.5" y="1560" width="40.4" height="38.45" as="geometry" />
         </mxCell>
         <mxCell id="hIumWw4enyg4ohD0qUeY-101" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;sourcePerimeterSpacing=10;targetPerimeterSpacing=10;" parent="1" source="hIumWw4enyg4ohD0qUeY-113" target="hIumWw4enyg4ohD0qUeY-102" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -477,34 +477,34 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hIumWw4enyg4ohD0qUeY-102" value="HikVision DVR" style="shape=mxgraph.networks2.icon;aspect=fixed;fillColor=#EDEDED;strokeColor=#000000;gradientColor=#5B6163;network2IconShadow=1;network2bgFillColor=none;network2Icon=mxgraph.networks2.video_projector;network2IconYOffset=0.013;network2IconW=1;network2IconH=0.294;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="-587" y="1303.76" width="50" height="14.7" as="geometry" />
+          <mxGeometry x="-478" y="1333.76" width="50" height="14.7" as="geometry" />
         </mxCell>
         <mxCell id="hIumWw4enyg4ohD0qUeY-103" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;sourcePerimeterSpacing=10;targetPerimeterSpacing=10;" parent="1" source="hIumWw4enyg4ohD0qUeY-108" target="hIumWw4enyg4ohD0qUeY-102" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-115.20033247137053" y="791.3599999999999" as="sourcePoint" />
-            <mxPoint x="-64.5" y="666.3599999999999" as="targetPoint" />
+            <mxPoint x="-6.20033247137053" y="821.3599999999999" as="sourcePoint" />
+            <mxPoint x="44.5" y="696.3599999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hIumWw4enyg4ohD0qUeY-104" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/security/Surveillance_Camera_Ceiling.svg;" parent="1" vertex="1">
-          <mxGeometry x="-580.6" y="1428.7600000000002" width="40.6" height="38.64" as="geometry" />
+          <mxGeometry x="-471.6" y="1559.7600000000002" width="40.6" height="38.64" as="geometry" />
         </mxCell>
         <mxCell id="hIumWw4enyg4ohD0qUeY-105" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;sourcePerimeterSpacing=10;targetPerimeterSpacing=10;" parent="1" source="hIumWw4enyg4ohD0qUeY-104" target="hIumWw4enyg4ohD0qUeY-102" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-132.8800000000001" y="713.1399999999999" as="sourcePoint" />
-            <mxPoint x="-15.88000000000011" y="686.3599999999999" as="targetPoint" />
+            <mxPoint x="-23.88000000000011" y="743.1399999999999" as="sourcePoint" />
+            <mxPoint x="93.11999999999989" y="716.3599999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hIumWw4enyg4ohD0qUeY-106" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;sourcePerimeterSpacing=10;targetPerimeterSpacing=10;" parent="1" source="hIumWw4enyg4ohD0qUeY-107" target="hIumWw4enyg4ohD0qUeY-102" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-13.386426790167434" y="796.3599999999999" as="sourcePoint" />
-            <mxPoint x="122.5" y="678.6600000000001" as="targetPoint" />
+            <mxPoint x="95.61357320983257" y="826.3599999999999" as="sourcePoint" />
+            <mxPoint x="231.5" y="708.6600000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hIumWw4enyg4ohD0qUeY-107" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/security/Surveillance_Camera_Ceiling.svg;" parent="1" vertex="1">
-          <mxGeometry x="-540.15" y="1428.7600000000002" width="40.15" height="38.21" as="geometry" />
+          <mxGeometry x="-431.15" y="1559.7600000000002" width="40.15" height="38.21" as="geometry" />
         </mxCell>
         <mxCell id="hIumWw4enyg4ohD0qUeY-108" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/security/Surveillance_Camera_Ceiling.svg;" parent="1" vertex="1">
-          <mxGeometry x="-620" y="1428.7600000000002" width="40.4" height="38.45" as="geometry" />
+          <mxGeometry x="-511" y="1559.7600000000002" width="40.4" height="38.45" as="geometry" />
         </mxCell>
         <mxCell id="hIumWw4enyg4ohD0qUeY-109" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;sourcePerimeterSpacing=10;targetPerimeterSpacing=10;" parent="1" source="L5Tx7upwiDnB7Mm6VfFR-44" target="hIumWw4enyg4ohD0qUeY-76" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -540,7 +540,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hIumWw4enyg4ohD0qUeY-116" value="IP Phone" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.ip_phone;" parent="1" vertex="1">
-          <mxGeometry x="-250" y="1283.5" width="76.5" height="37" as="geometry" />
+          <mxGeometry x="-190" y="1322.46" width="76.5" height="37" as="geometry" />
         </mxCell>
         <mxCell id="hIumWw4enyg4ohD0qUeY-117" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="hIumWw4enyg4ohD0qUeY-116" target="hIumWw4enyg4ohD0qUeY-113" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -574,6 +574,9 @@
             <mxPoint x="-94.94000000000005" y="939.9999999999999" as="sourcePoint" />
             <mxPoint x="-29.999999999999545" y="923.9489294403894" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="wQYIy9DI_1pvrBFFA-tW-1" value="PC&lt;div&gt;With Server&lt;/div&gt;" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="1300" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
